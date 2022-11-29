@@ -1,0 +1,9 @@
+{
+    "antlr4.generation": {       
+        "mode": "external",
+        "language": "Java",
+        "listeners": false,
+        "visitors": true,
+        "outputDir": "src/RAQL/JAVA/Grammar"
+    }  
+}
